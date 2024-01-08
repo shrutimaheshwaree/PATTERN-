@@ -1,2 +1,2 @@
 # PATTERN-
- S &amp;&amp; K
+ S &amp;&amp; 
